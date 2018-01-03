@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08040DF41FFD132D00853D3B /* navigationAnimaVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 08040DF21FFD132D00853D3B /* navigationAnimaVC.m */; };
+		08040DF51FFD132D00853D3B /* navigationAnimaVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 08040DF31FFD132D00853D3B /* navigationAnimaVC.xib */; };
+		08040DF91FFD1E8B00853D3B /* navigationSystemPopVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 08040DF71FFD1E8B00853D3B /* navigationSystemPopVC.m */; };
+		08040DFA1FFD1E8B00853D3B /* navigationSystemPopVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 08040DF81FFD1E8B00853D3B /* navigationSystemPopVC.xib */; };
+		08040DFD1FFD236B00853D3B /* navigationAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 08040DFC1FFD236B00853D3B /* navigationAnimation.m */; };
 		081150551FFBA76C007485D0 /* WBQTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 081150541FFBA76C007485D0 /* WBQTableView.m */; };
 		081150581FFBA788007485D0 /* WBQTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 081150571FFBA788007485D0 /* WBQTableViewCell.m */; };
 		0811505B1FFBA7AA007485D0 /* WBQCellModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0811505A1FFBA7AA007485D0 /* WBQCellModel.m */; };
@@ -48,6 +53,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		08040DF11FFD132D00853D3B /* navigationAnimaVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = navigationAnimaVC.h; sourceTree = "<group>"; };
+		08040DF21FFD132D00853D3B /* navigationAnimaVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = navigationAnimaVC.m; sourceTree = "<group>"; };
+		08040DF31FFD132D00853D3B /* navigationAnimaVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = navigationAnimaVC.xib; sourceTree = "<group>"; };
+		08040DF61FFD1E8B00853D3B /* navigationSystemPopVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = navigationSystemPopVC.h; sourceTree = "<group>"; };
+		08040DF71FFD1E8B00853D3B /* navigationSystemPopVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = navigationSystemPopVC.m; sourceTree = "<group>"; };
+		08040DF81FFD1E8B00853D3B /* navigationSystemPopVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = navigationSystemPopVC.xib; sourceTree = "<group>"; };
+		08040DFB1FFD236B00853D3B /* navigationAnimation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = navigationAnimation.h; sourceTree = "<group>"; };
+		08040DFC1FFD236B00853D3B /* navigationAnimation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = navigationAnimation.m; sourceTree = "<group>"; };
 		081150531FFBA76C007485D0 /* WBQTableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WBQTableView.h; sourceTree = "<group>"; };
 		081150541FFBA76C007485D0 /* WBQTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WBQTableView.m; sourceTree = "<group>"; };
 		081150561FFBA788007485D0 /* WBQTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WBQTableViewCell.h; sourceTree = "<group>"; };
@@ -113,6 +126,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		08040DF01FFD12F900853D3B /* navigationAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				08040DF11FFD132D00853D3B /* navigationAnimaVC.h */,
+				08040DF21FFD132D00853D3B /* navigationAnimaVC.m */,
+				08040DF31FFD132D00853D3B /* navigationAnimaVC.xib */,
+				08040DF61FFD1E8B00853D3B /* navigationSystemPopVC.h */,
+				08040DF71FFD1E8B00853D3B /* navigationSystemPopVC.m */,
+				08040DF81FFD1E8B00853D3B /* navigationSystemPopVC.xib */,
+				08040DFB1FFD236B00853D3B /* navigationAnimation.h */,
+				08040DFC1FFD236B00853D3B /* navigationAnimation.m */,
+			);
+			path = navigationAnimation;
+			sourceTree = "<group>";
+		};
 		085306421FFCAF7C00D3222F /* customTable */ = {
 			isa = PBXGroup;
 			children = (
@@ -179,6 +207,7 @@
 		085955101FFB376900A7A35B /* demo */ = {
 			isa = PBXGroup;
 			children = (
+				08040DF01FFD12F900853D3B /* navigationAnimation */,
 				085306431FFCAF7C00D3222F /* customCollection */,
 				085306421FFCAF7C00D3222F /* customTable */,
 				085306441FFCAF7C00D3222F /* date */,
@@ -319,11 +348,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08040DFA1FFD1E8B00853D3B /* navigationSystemPopVC.xib in Resources */,
 				0859551E1FFB376900A7A35B /* LaunchScreen.storyboard in Resources */,
 				085306361FFC71F300D3222F /* ViewController2.xib in Resources */,
 				085306491FFCB09600D3222F /* CollectionViewController.xib in Resources */,
 				0859551B1FFB376900A7A35B /* Assets.xcassets in Resources */,
 				085955191FFB376900A7A35B /* Main.storyboard in Resources */,
+				08040DF51FFD132D00853D3B /* navigationAnimaVC.xib in Resources */,
 				0853063D1FFC787F00D3222F /* DateHeadView.xib in Resources */,
 				0853063B1FFC76A200D3222F /* DateCell.xib in Resources */,
 			);
@@ -351,17 +382,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				085955161FFB376900A7A35B /* ViewController.m in Sources */,
+				08040DF41FFD132D00853D3B /* navigationAnimaVC.m in Sources */,
 				085306401FFC7CB700D3222F /* DateModel.m in Sources */,
 				0811505E1FFBBBF0007485D0 /* ViewController1.m in Sources */,
 				0853064C1FFCB23A00D3222F /* CustomCollectionViewLayout.m in Sources */,
 				085955211FFB376900A7A35B /* main.m in Sources */,
 				081150551FFBA76C007485D0 /* WBQTableView.m in Sources */,
+				08040DFD1FFD236B00853D3B /* navigationAnimation.m in Sources */,
 				081150581FFBA788007485D0 /* WBQTableViewCell.m in Sources */,
 				085306351FFC71F300D3222F /* ViewController2.m in Sources */,
 				0853063A1FFC76A200D3222F /* DateCell.m in Sources */,
 				0811505B1FFBA7AA007485D0 /* WBQCellModel.m in Sources */,
 				085306481FFCB09600D3222F /* CollectionViewController.m in Sources */,
 				085955131FFB376900A7A35B /* AppDelegate.m in Sources */,
+				08040DF91FFD1E8B00853D3B /* navigationSystemPopVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

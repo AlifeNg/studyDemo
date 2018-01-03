@@ -10,6 +10,8 @@
 #import "ViewController1.h"
 #import "ViewController2.h"
 #import "CollectionViewController.h"
+#import "navigationAnimaVC.h"
+#import "navigationSystemPopVC.h"
 
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource>
 
@@ -42,13 +44,13 @@
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
 //    NSLog(@"cellForRowAtIndexPath");
     static NSString *cellId = @"cell";
-    NSArray *titleAry = @[@"根据scrollview来写一个tableview",@"快速写一个日历",@"随机瀑布流"];
+    NSArray *titleAry = @[@"根据scrollview来写一个tableview",@"快速写一个日历",@"随机瀑布流",@"模仿导航栏的pop手势",@"替换导航栏back返回动画"];
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellId];
     if (!cell) {
         cell = [[UITableViewCell alloc]initWithStyle:UITableViewCellStyleValue1 reuseIdentifier:cellId];
     }
     if (titleAry.count > indexPath.row) {
-        cell.textLabel.text = titleAry[indexPath.row];
+        cell.textLabel.text = [NSString stringWithFormat:@"%@、%@",[@(indexPath.row) description],titleAry[indexPath.row]];
     }else{
         cell.textLabel.text = [@(indexPath.row) description];
     }
@@ -62,14 +64,20 @@
 
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
 //    [tableView reloadData];
-    if (indexPath.row == 0) {
+    if (indexPath.row == 0) {//根据scrollview来写一个tableview
         [self.navigationController pushViewController:[ViewController1 new] animated:YES];
     }
-    if (indexPath.row == 1) {
+    if (indexPath.row == 1) {//快速写一个日历
         [self.navigationController pushViewController:[ViewController2 new] animated:YES];
     }
-    if (indexPath.row == 2) {
+    if (indexPath.row == 2) {//随机瀑布流
         [self.navigationController pushViewController:[CollectionViewController new] animated:YES];
+    }
+    if (indexPath.row == 3) {//模仿导航栏的pop手势
+        [self.navigationController pushViewController:[navigationAnimaVC new] animated:YES];
+    }
+    if (indexPath.row == 4) {//替换导航栏back返回动画
+        [self.navigationController pushViewController:[navigationSystemPopVC new] animated:YES];
     }
 }
 @end

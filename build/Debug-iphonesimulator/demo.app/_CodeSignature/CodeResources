@@ -52,6 +52,14 @@
 		<data>
 		OX2mqaulMvPyVcCdDZlSicNV4IQ=
 		</data>
+		<key>navigationAnimaVC.nib</key>
+		<data>
+		bUvrL2MKb8iZ29V8dL064/vKwPo=
+		</data>
+		<key>navigationSystemPopVC.nib</key>
+		<data>
+		Nh7bP70KVl0jEc5gAizuz9SEuSY=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -163,6 +171,28 @@
 			<key>hash2</key>
 			<data>
 			QkClkOztFrTQ9ASHxeA4ihLWbj1y9Vuz2xaWyqI/NLc=
+			</data>
+		</dict>
+		<key>navigationAnimaVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bUvrL2MKb8iZ29V8dL064/vKwPo=
+			</data>
+			<key>hash2</key>
+			<data>
+			VsTdi2E0i+4sbmZ+SX6mnt8dA0qxDABXwDx6kLPzf1U=
+			</data>
+		</dict>
+		<key>navigationSystemPopVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Nh7bP70KVl0jEc5gAizuz9SEuSY=
+			</data>
+			<key>hash2</key>
+			<data>
+			UzbJ8mBGTgMVT1UZrLUkEcWdsZRRNgkgNRlixUtTBOU=
 			</data>
 		</dict>
 	</dict>

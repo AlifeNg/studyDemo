@@ -4,9 +4,49 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>1.jpg</key>
+		<data>
+		tQhq0Stt54c+RAVAjC5g6pjVQUg=
+		</data>
+		<key>10.png</key>
+		<data>
+		Ozm51bwt3ulT2+De+Be+N0AKzfY=
+		</data>
+		<key>2.jpg</key>
+		<data>
+		2T1UnHQHBARDFTMDsiocCxkSnV0=
+		</data>
+		<key>3.jpg</key>
+		<data>
+		q9u2edemVi5N/i5eed0ihpxyU2U=
+		</data>
+		<key>4.jpg</key>
+		<data>
+		iGV/LT8vHpTFh7o1HxXujLXII3o=
+		</data>
+		<key>5.jpg</key>
+		<data>
+		AILC/fzmD1DWvNvJAyRGUBG2/3k=
+		</data>
+		<key>6.jpg</key>
+		<data>
+		6ETvLVvjJoe6NrZLLng4EdwXfT8=
+		</data>
+		<key>7.jpg</key>
+		<data>
+		j3J5kdU5ZYsYLGaCVk0qyWp6Exw=
+		</data>
+		<key>8.png</key>
+		<data>
+		ELLL7joo83A48EGcOS4xmqzIg8k=
+		</data>
+		<key>9.png</key>
+		<data>
+		5DEI4QMSNXQk0m1JcKq0cFSe3kM=
+		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		4H/IdQ65YpqLEHtvnaAiXm8zaMk=
+		uY4z6AFb5hAgE06PIvqY2XHA9h8=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,11 +54,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		ZNZyrMm8Sq6GSjW02XvVgDqN6M4=
+		L0gz/OvjciynwIqT4WKeQ9P7kqM=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		9CAIcRJMJ1XFGSP92ptCzW2qzkE=
+		RS9CUeeY2uMurZYZuQICB1dI5S8=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -26,19 +66,31 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-lKA-bh-oZZ.nib</key>
 		<data>
-		6EACOzJ92ZVj47EAnZY7jZ7HL5Q=
+		YduUMcNMUm44UPD3TkWOSII5hBs=
 		</data>
 		<key>CollectionViewController.nib</key>
 		<data>
-		r7XRFA6V53p8xDHbED1rJLAWdyY=
+		VwisO20SfaGBMJ68i0EZOxxQ04w=
+		</data>
+		<key>CoreTextVC.nib</key>
+		<data>
+		3IHk0XitW3fLCPt8K2jwe+YG5RY=
 		</data>
 		<key>DateCell.nib</key>
 		<data>
-		nQTvhsThEPjVHmMRBGDA690bxBg=
+		k4iftyYfsikrD1F3WVwsOvHBC5Q=
 		</data>
 		<key>DateHeadView.nib</key>
 		<data>
-		QGYCh4icAk+RyVxB7iMitcxDqwI=
+		Lp9aYGvVC2QG168Y+ruthQBwvF8=
+		</data>
+		<key>ImageFilterCtrl.nib</key>
+		<data>
+		ZcYbxO1k5GVGmxJub5rMPvLxjPc=
+		</data>
+		<key>ImgPressVC.nib</key>
+		<data>
+		nbcGyf7MRgo8Oge20yp8m3dlncU=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -48,30 +100,144 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>ShotScreenImageVC.nib</key>
+		<data>
+		sYOf3wrJ7M/iNSskdsKfGPuE4SI=
+		</data>
 		<key>ViewController2.nib</key>
 		<data>
-		OX2mqaulMvPyVcCdDZlSicNV4IQ=
+		gMalHT4iuHFmoGJbVCXN7knQk7A=
 		</data>
 		<key>navigationAnimaVC.nib</key>
 		<data>
-		bUvrL2MKb8iZ29V8dL064/vKwPo=
+		+ILgZ0QiHnQCo3HbW3gH5mv0oVo=
 		</data>
 		<key>navigationSystemPopVC.nib</key>
 		<data>
-		Nh7bP70KVl0jEc5gAizuz9SEuSY=
+		mVCPNczJ1ou+Be4yr7DhAZ1IuJI=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>1.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tQhq0Stt54c+RAVAjC5g6pjVQUg=
+			</data>
+			<key>hash2</key>
+			<data>
+			4dJG51r6uv1BofYTeb5c3/glmTjQbG1rjtV2Y6dfLZ8=
+			</data>
+		</dict>
+		<key>10.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ozm51bwt3ulT2+De+Be+N0AKzfY=
+			</data>
+			<key>hash2</key>
+			<data>
+			D3eCY1qSodf45G42jhehyjDi3VQsjI7grxqlMkTLj/s=
+			</data>
+		</dict>
+		<key>2.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2T1UnHQHBARDFTMDsiocCxkSnV0=
+			</data>
+			<key>hash2</key>
+			<data>
+			bQJBr05U5XIZndtv8eQSTwyyb46Bt+WbzijNf05kZRE=
+			</data>
+		</dict>
+		<key>3.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q9u2edemVi5N/i5eed0ihpxyU2U=
+			</data>
+			<key>hash2</key>
+			<data>
+			kYERDv3dIJFORHBVyAJNuiSoiYKLVNYIXEXVaRjbuAo=
+			</data>
+		</dict>
+		<key>4.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iGV/LT8vHpTFh7o1HxXujLXII3o=
+			</data>
+			<key>hash2</key>
+			<data>
+			b2fktiwiQNAMa+eXGWdDjN3/84VTcTSmx9f5XkGzuws=
+			</data>
+		</dict>
+		<key>5.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AILC/fzmD1DWvNvJAyRGUBG2/3k=
+			</data>
+			<key>hash2</key>
+			<data>
+			dE/Ns8FKMNBnuZ1ur4QC62lnsByOYbU5F7c51H/E+eU=
+			</data>
+		</dict>
+		<key>6.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6ETvLVvjJoe6NrZLLng4EdwXfT8=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZH9pVsv/RyLtAwH+g0hrrPrAADsADMEWwSL8g+Gnbe8=
+			</data>
+		</dict>
+		<key>7.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j3J5kdU5ZYsYLGaCVk0qyWp6Exw=
+			</data>
+			<key>hash2</key>
+			<data>
+			olewx83EqbrftMwUAst8vm0g2zqBukQcutNfmhSrHtg=
+			</data>
+		</dict>
+		<key>8.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ELLL7joo83A48EGcOS4xmqzIg8k=
+			</data>
+			<key>hash2</key>
+			<data>
+			4Ege98r+UHSKnrlUM/e4qj6KH2Btt0WZ2bWwY5VeYXU=
+			</data>
+		</dict>
+		<key>9.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5DEI4QMSNXQk0m1JcKq0cFSe3kM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Re7slF/K8eFiz/OiWrna+HfRjm5LbmsvUJiU5y98HeE=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4H/IdQ65YpqLEHtvnaAiXm8zaMk=
+			uY4z6AFb5hAgE06PIvqY2XHA9h8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y/kvmTU1aELSb2/r4kRVuCImMhU2TCMg/qJpBFspPo4=
+			hEjOrRz6E4/lXUW/AR0hTg26JrEcm+H+VU+vHn2O5Fw=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -89,22 +255,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZNZyrMm8Sq6GSjW02XvVgDqN6M4=
+			L0gz/OvjciynwIqT4WKeQ9P7kqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			lVd1zwEE1zC+gd7r1+rVvRrfO+zg7sc8EY7K7xRt50o=
+			vCqsNrhj+peI90k1YWHFCJSkrFS0VpkdO2hnQPN4tS4=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9CAIcRJMJ1XFGSP92ptCzW2qzkE=
+			RS9CUeeY2uMurZYZuQICB1dI5S8=
 			</data>
 			<key>hash2</key>
 			<data>
-			LLBaP+kjWnxUb/XGbzAYfA6B1YxNAbW/XpgKKnGV+kI=
+			5D4VM8E5NxXDWkrm5uP8vvXs55EVGpy1B/QCtQDDCnQ=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -122,77 +288,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6EACOzJ92ZVj47EAnZY7jZ7HL5Q=
+			YduUMcNMUm44UPD3TkWOSII5hBs=
 			</data>
 			<key>hash2</key>
 			<data>
-			5iA6T6Kt8lh+TCooYYFegaoQmfkIxj6hJJAC6eNqS04=
+			7cL+CCHp/dO1esAagh3aXnJSlWpaL/8QOeo5Vfs9To4=
 			</data>
 		</dict>
 		<key>CollectionViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r7XRFA6V53p8xDHbED1rJLAWdyY=
+			VwisO20SfaGBMJ68i0EZOxxQ04w=
 			</data>
 			<key>hash2</key>
 			<data>
-			QfGN0RuHOv1MWqp6MzC+oOs6gbiMs2TU7sLvjXapi2c=
+			RMnwTrZ3eY/7Pwzj513e4zPu8BTWUtmLV1giq25LQgs=
+			</data>
+		</dict>
+		<key>CoreTextVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3IHk0XitW3fLCPt8K2jwe+YG5RY=
+			</data>
+			<key>hash2</key>
+			<data>
+			0hDkfdzPs20LiMzCyXqms4ah9HKw0S20xdu8qwsbrKY=
 			</data>
 		</dict>
 		<key>DateCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nQTvhsThEPjVHmMRBGDA690bxBg=
+			k4iftyYfsikrD1F3WVwsOvHBC5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			g9cgORR936+K9XCYk0b+iJNmb2MnlWjnKRqSyOvyzuQ=
+			eh3cHFGkKuGW0r8utbDAKYKqCHOPVtR7+jLNdPTLE9c=
 			</data>
 		</dict>
 		<key>DateHeadView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QGYCh4icAk+RyVxB7iMitcxDqwI=
+			Lp9aYGvVC2QG168Y+ruthQBwvF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1A9ZBw3BAu0lN2RGHdE3rALNwypiU4jdkc3yuJHtA4I=
+			SoIWFuODZ8FuKJmj15eueksz2yRdHBz/rxV+bj+zxM4=
+			</data>
+		</dict>
+		<key>ImageFilterCtrl.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZcYbxO1k5GVGmxJub5rMPvLxjPc=
+			</data>
+			<key>hash2</key>
+			<data>
+			wwJ1Ly7tm9WstKAVBryWfhsreQFmJw2UNe1YJNw4uW8=
+			</data>
+		</dict>
+		<key>ImgPressVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nbcGyf7MRgo8Oge20yp8m3dlncU=
+			</data>
+			<key>hash2</key>
+			<data>
+			3xPQHYrrvp7SKFZePnYoj9wqF1IRQnexcm+BGDZ4Tdc=
+			</data>
+		</dict>
+		<key>ShotScreenImageVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sYOf3wrJ7M/iNSskdsKfGPuE4SI=
+			</data>
+			<key>hash2</key>
+			<data>
+			3Q1Vnv7EP+iEq9y7FiQJNsA/thnnP4aBRMu3xgpVafY=
 			</data>
 		</dict>
 		<key>ViewController2.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OX2mqaulMvPyVcCdDZlSicNV4IQ=
+			gMalHT4iuHFmoGJbVCXN7knQk7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			QkClkOztFrTQ9ASHxeA4ihLWbj1y9Vuz2xaWyqI/NLc=
+			IpPq8Jgtz1Q+WBhb4XRTzgZBb0KN16gfQ376etQVSTU=
 			</data>
 		</dict>
 		<key>navigationAnimaVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bUvrL2MKb8iZ29V8dL064/vKwPo=
+			+ILgZ0QiHnQCo3HbW3gH5mv0oVo=
 			</data>
 			<key>hash2</key>
 			<data>
-			VsTdi2E0i+4sbmZ+SX6mnt8dA0qxDABXwDx6kLPzf1U=
+			RKaMHcVE8ZIJolXiRoPg97W3AMRQk20KturJ07/Lc/8=
 			</data>
 		</dict>
 		<key>navigationSystemPopVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Nh7bP70KVl0jEc5gAizuz9SEuSY=
+			mVCPNczJ1ou+Be4yr7DhAZ1IuJI=
 			</data>
 			<key>hash2</key>
 			<data>
-			UzbJ8mBGTgMVT1UZrLUkEcWdsZRRNgkgNRlixUtTBOU=
+			wqVlg+cswi7UYK7i4Pk69g43rOIuHcJIm96YnsZS+ug=
 			</data>
 		</dict>
 	</dict>

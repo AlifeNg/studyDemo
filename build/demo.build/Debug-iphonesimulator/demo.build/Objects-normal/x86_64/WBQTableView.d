@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/wubinqing/Desktop/demo/demo/customTable/WBQTableView.m \
-  /Users/wubinqing/Desktop/demo/demo/customTable/WBQTableView.h \
-  /Users/wubinqing/Desktop/demo/demo/customTable/WBQTableViewCell.h \
-  /Users/wubinqing/Desktop/demo/demo/customTable/WBQCellModel.h
+  /Users/wubinqing/Desktop/studyDemo/demo/customTable/WBQTableView.m \
+  /Users/wubinqing/Desktop/studyDemo/demo/customTable/WBQTableView.h \
+  /Users/wubinqing/Desktop/studyDemo/demo/customTable/WBQTableViewCell.h \
+  /Users/wubinqing/Desktop/studyDemo/demo/customTable/WBQCellModel.h

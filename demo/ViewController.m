@@ -12,6 +12,10 @@
 #import "CollectionViewController.h"
 #import "navigationAnimaVC.h"
 #import "navigationSystemPopVC.h"
+#import "ImgPressVC.h"
+#import "ImageFilterCtrl.h"
+#import "ShotScreenImageVC.h"
+#import "CoreTextVC.h"
 
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource>
 
@@ -44,7 +48,7 @@
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
 //    NSLog(@"cellForRowAtIndexPath");
     static NSString *cellId = @"cell";
-    NSArray *titleAry = @[@"根据scrollview来写一个tableview",@"快速写一个日历",@"随机瀑布流",@"模仿导航栏的pop手势",@"替换导航栏back返回动画"];
+    NSArray *titleAry = @[@"根据scrollview来写一个tableview",@"快速写一个日历",@"随机瀑布流",@"模仿导航栏的pop手势",@"替换导航栏back返回动画",@"图片压缩",@"图片处理",@"图片裁剪 截图",@"Core Text"];
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellId];
     if (!cell) {
         cell = [[UITableViewCell alloc]initWithStyle:UITableViewCellStyleValue1 reuseIdentifier:cellId];
@@ -78,6 +82,18 @@
     }
     if (indexPath.row == 4) {//替换导航栏back返回动画
         [self.navigationController pushViewController:[navigationSystemPopVC new] animated:YES];
+    }
+    if (indexPath.row == 5) {//图片压缩
+        [self.navigationController pushViewController:[ImgPressVC new] animated:YES];
+    }
+    if (indexPath.row == 6) {//图片处理
+        [self.navigationController pushViewController:[ImageFilterCtrl new] animated:YES];
+    }
+    if (indexPath.row == 7) {//图片裁剪 截图
+        [self.navigationController pushViewController:[ShotScreenImageVC new] animated:YES];
+    }
+    if (indexPath.row == 8) {//Core Text
+        [self.navigationController pushViewController:[CoreTextVC new] animated:YES];
     }
 }
 @end

@@ -1,2 +1,2 @@
-dependencies: /Users/wubinqing/Desktop/demo/demo/date/DateModel.m \
-  /Users/wubinqing/Desktop/demo/demo/date/DateModel.h
+dependencies: /Users/wubinqing/Desktop/studyDemo/demo/date/DateModel.m \
+  /Users/wubinqing/Desktop/studyDemo/demo/date/DateModel.h

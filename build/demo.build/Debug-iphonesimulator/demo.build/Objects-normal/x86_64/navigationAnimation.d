@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/wubinqing/Desktop/demo/demo/navigationAnimation/navigationAnimation.m \
-  /Users/wubinqing/Desktop/demo/demo/navigationAnimation/navigationAnimation.h
+  /Users/wubinqing/Desktop/studyDemo/demo/navigationAnimation/navigationAnimation.m \
+  /Users/wubinqing/Desktop/studyDemo/demo/navigationAnimation/navigationAnimation.h

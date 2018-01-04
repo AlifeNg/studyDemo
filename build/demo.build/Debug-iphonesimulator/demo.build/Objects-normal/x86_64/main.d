@@ -1,2 +1,2 @@
-dependencies: /Users/wubinqing/Desktop/demo/demo/main.m \
-  /Users/wubinqing/Desktop/demo/demo/AppDelegate.h
+dependencies: /Users/wubinqing/Desktop/studyDemo/demo/main.m \
+  /Users/wubinqing/Desktop/studyDemo/demo/AppDelegate.h

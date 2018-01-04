@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/wubinqing/Desktop/demo/demo/customCollection/CustomCollectionViewLayout.m \
-  /Users/wubinqing/Desktop/demo/demo/customCollection/CustomCollectionViewLayout.h
+  /Users/wubinqing/Desktop/studyDemo/demo/customCollection/CustomCollectionViewLayout.m \
+  /Users/wubinqing/Desktop/studyDemo/demo/customCollection/CustomCollectionViewLayout.h

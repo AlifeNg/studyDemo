@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/wubinqing/Desktop/demo/demo/customTable/WBQCellModel.m \
-  /Users/wubinqing/Desktop/demo/demo/customTable/WBQCellModel.h
+  /Users/wubinqing/Desktop/studyDemo/demo/customTable/WBQCellModel.m \
+  /Users/wubinqing/Desktop/studyDemo/demo/customTable/WBQCellModel.h

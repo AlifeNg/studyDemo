@@ -28,13 +28,14 @@
     UIView *fromView = fromViewCtrl.view;
 
     [transferView insertSubview:toViewCtrl.view belowSubview:fromViewCtrl.view];
-    
-    [UIView animateWithDuration:[self transitionDuration:transitionContext] animations:^{
-        fromView.frame =  CGRectMake(fromView.frame.size.width, fromView.frame.origin.y, fromView.frame.size.width, fromView.frame.size.height);
-    } completion:^(BOOL finished) {
-        //completes上下文
-        [transitionContext completeTransition:YES];
-    }];
+//
+//    [UIView animateWithDuration:[self transitionDuration:transitionContext] animations:^{
+//        fromView.frame =  CGRectMake(fromView.frame.size.width, fromView.frame.origin.y, fromView.frame.size.width, fromView.frame.size.height);
+//    } completion:^(BOOL finished) {
+//        //completes上下文
+//        [transitionContext completeTransition:YES];
+//    }];
+    [self animationTwo:transferView];
 }
 
 - (void)animationTwo:(UIView *)transferView{

@@ -52,6 +52,7 @@
     }
     return nil;
 }
+
 - (IBAction)pushNextCtrl:(id)sender {
     [self.navigationController pushViewController:[ViewController1 new] animated:YES];
 }
